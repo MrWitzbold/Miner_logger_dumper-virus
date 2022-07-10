@@ -5,12 +5,12 @@ First off, I knew one of its functions was logging discord tokens because my fri
 
 The virus uses a few utilities to steal tokens and several other malicious activites, here's a list:
 
-Process hacker (prob to kill antiviruses)
-TeamViewer GmbH
-Blackbone Injector (a memory hacking tool for windows)
-LSASS Dumper (dumps information about the machine's security policy)
-RDP brute-force tool (bruteforces the microsoft remote desktop protocol)
-PuTTY (a backdoored version of putty)
-Bitcoin miner
+Process hacker (prob to kill antiviruses),
+TeamViewer GmbH,
+Blackbone Injector (a memory hacking tool for windows),
+LSASS Dumper (dumps information about the machine's security policy),
+RDP brute-force tool (bruteforces the microsoft remote desktop protocol),
+PuTTY (a backdoored version of putty),
+Bitcoin miner,
 
 In the important functions I decompiled the functions some of these utilities use, but it wasn't possible to get them all since even after deobfuscated, the generated code had missing functions and some bad code.
