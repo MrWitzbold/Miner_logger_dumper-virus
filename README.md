@@ -3,6 +3,8 @@
 When trying to get a GUI for a game I don't even play so I could crack it, someone sent me a virus to mess with me, so I was curious to know what it was.
 First off, I knew one of its functions was logging discord tokens because my friend opened before we realized what it was, and whoever sent the virus started sending me messages through his account encouraging me to open it. I didn't, and a few minutes later my friend told me what had happened.
 
+![alt text](https://i.imgur.com/EA5XXrU.png)
+
 The virus uses a few utilities to steal tokens and several other malicious activites, here's a list:
 
 Process hacker (prob to kill antiviruses),
